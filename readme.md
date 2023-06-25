@@ -1,5 +1,5 @@
 # Youtube Scrapper
-Se utiliza la API v3 de youtube para obtener la información de una playlist o mas playlist de youtube
+Se utiliza la API v3 de youtube para obtener la información de una playlist o mas playlist de youtube, esta version esta desarrollada con Javascript
 
 ------------
 
